@@ -1,8 +1,14 @@
 **Customer Personality Analysis**
 
-**Customer Personality Analysis**
-
 Analisi di un dataset che mette a confronto le differenti abitudini d’acquisto delle famiglie con figli rispetto a quelle senza figli, tenendo in considerazione le varie fasce d’età e di reddito. 
+
+**Team**
+
+| Nome | Ruolo |
+| :---: | :---: |
+| Giulia Franchina | Project manager |
+| Elisa Scifo | Developer |
+| Giulia Garraffo | Developer |
 
 **Dataset** 
 
@@ -23,5 +29,5 @@ In particolare, si vuole:
 
 Il dataset è stato caricato su DBeaver, dove sono state eseguite diverse query SQL per estrarre e rielaborare i dati necessari al calcolo delle tre metriche principali dell’analisi.
 
-Successivamente, i risultati ottenuti dalle query sono stati esportati da DBeaver e importati in Google Sheets, dove sono stati creati i grafici per rappresentare in modo chiaro e intuitivo le variazioni dei dati e le relazioni tra le diverse variabili (fasce di reddito, presenza di figli, abitudini di acquisto e adesione alle campagne promozionali).
+Successivamente, i risultati ottenuti dalle query sono stati esportati da DBeaver e importati in Google Sheets, dove sono stati creati i grafici per rappresentare in modo chiaro e intuitivo le variazioni dei dati e le relazioni tra le diverse variabili (fasce di reddito, presenza di figli, abitudini di acquisto e adesione alle campagne promozionali). 
 
