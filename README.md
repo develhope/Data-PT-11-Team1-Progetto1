@@ -7,16 +7,6 @@ Analisi di un dataset che mette a confronto le differenti abitudini d’acquisto
 Il dataset estratto da Kaggle (Customer Personality Analysis)  è uno studio approfondito dei clienti ideali di un’azienda. Serve a comprendere meglio i comportamenti, i bisogni e le preoccupazioni dei diversi tipi di clienti, così da poter adattare prodotti e strategie di marketing in modo più mirato.                                                    
 In pratica, grazie a questa analisi, l’azienda può individuare quali segmenti di clientela sono più interessati a un determinato prodotto e concentrare su di essi gli sforzi e gli investimenti di marketing, invece di rivolgersi indistintamente a tutti i clienti.
 
-**Team**
-Giulia Franchina	Project manager
-Elisa Scifo	        Developer 
-Giulia Garraffo 	Developer 
-
-| Giulia Frachina | Project manager | 
-|  Elisa Scifo   | Developer |  
-| Giulia Garraffo   | Developer |
-
-
 **Obiettivi dell’analisi**
 
 L’analisi ha come obiettivo principale quello di comprendere le abitudini di acquisto e il comportamento promozionale dei clienti in base a caratteristiche socio-economiche e familiari.
