@@ -1,3 +1,4 @@
+<p align="justify">
 <h1>ANALISI FASCE D'ETA'</h1>  
 
 Questa prima metrica risulta essenziale per capire la relazione che intercorre tra le coorti quinquennali 
@@ -33,4 +34,5 @@ Il secondo grafico mostra l'andamento della spesa di famiglie senza figli.
 
 
 Conclusioni
+</p>
 
