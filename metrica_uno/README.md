@@ -25,6 +25,7 @@ Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentat
 
 Il primo grafico, di seguito riportato, mostra l'andamento della spesa di famiglie con figli.
 <img width="802" height="438" alt="Grafico fasce età famiglie" src="https://github.com/user-attachments/assets/437501fb-c39f-417e-881b-b817906bae4b" />
+
 Il grafico evidenzia un calo generale nella spesa delle famiglie. Il più notevole riguarda l'acquisto degli alcolici, la cui spesa diminuisce drasticamente nel tempo rispetto agli altri prodotti.Tuttavia, anche nell'ultima fascia temporale resta la tipologia di prodotto con spesa maggiore. Gli alcolici sembrano il tipo di prodotto maggiormente acquistato dagli utenti nati nel primo quinquennio analizzato. In questa fascia temporale il vino registra la sua spesa massima, per poi diminuire nel quinquennio successivo.  Il quinquennio compreso tra il 1980 e 1985 è quello che registra il calo maggiore. Diminuisce considerevolmente anche il consumo di carne, arrivando a ⅓ nell’ultimo arco temporale analizzato rispetto al punto di partenza. Il prodotto viene acquistato in maggiore quantità dagli utenti nati nella prima metà degli anni ‘50. Si noti come il consumo di carne resta nettamente superiore rispetto al pesce, altro prodotto di origine animale presente nel dataset, la cui spesa resta pressoché invariata nel tempo. Se ne evidenza un lieve aumento nel primo decennio. Situazione analoga riguarda la spesa di frutta, dolciumi, e beni di lusso.
 
 Il secondo grafico mostra l'andamento della spesa di famiglie senza figli.
