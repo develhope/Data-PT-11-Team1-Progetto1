@@ -1,4 +1,4 @@
-ANALISI FASCE D'ETA'
+<h1>ANALISI FASCE D'ETA'</h1>  
 
 Questa prima metrica risulta essenziale per capire la relazione che intercorre tra le coorti quinquennali 
 di nascita dei clienti e la spesa media relativa a diverse categorie di prodotto.
@@ -18,6 +18,7 @@ L'analisi è stata svolta filtrando i dati del dataset in modo da identificare d
 Il filtraggio dei dati è stato eseguito attraverso query SQL, di cui si riportano i file nella cartella.
 
 Per ciascun prodotto esaminato e per ciascuna categoria di utenti è stata calcolata la spesa media degli ultimi due anni di ogni coorte.
+<br>
 
 Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentati in grafici mediante l'uso di Google Sheet.
 
