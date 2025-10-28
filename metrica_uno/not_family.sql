@@ -37,7 +37,7 @@ WHERE category_customer = 'Not family'
 GROUP BY category_year
 )
 SELECT *
-FROM tasso_dominante 
+FROM avg_category_customer 
 ORDER BY CASE category_income
    WHEN 'Molto basso' THEN 1
    WHEN 'Basso'       THEN 2
