@@ -83,3 +83,13 @@ chi ha figli tende a sfruttare le offerte in modo pragmatico;
 
 chi non ha figli risponde solo se la promozione ha valore percepito o legame con la marca.
 
+<h2>Conclusione generale</h2>
+
+L’analisi ha messo in evidenza come le dinamiche di acquisto, il reddito e la risposta alle promozioni siano fortemente influenzate dalla struttura familiare.
+
+Le famiglie con figli mostrano comportamenti più razionali e orientati al risparmio, con consumi mirati ai beni di prima necessità e una maggiore attenzione alle offerte. La loro partecipazione alle promozioni è pragmatica e legata alla gestione del budget familiare.
+
+Al contrario, le famiglie senza figli evidenziano uno stile di consumo più libero e qualitativo, con una propensione maggiore alla spesa per prodotti di piacere e un interesse crescente verso scelte sostenibili e di valore.
+
+Nel complesso, emerge che età, reddito e composizione familiare influenzano profondamente le strategie di acquisto e di risposta alle campagne promozionali, suggerendo alle aziende di personalizzare le proprie strategie di marketing in base a questi fattori.
+
