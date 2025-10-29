@@ -1,8 +1,8 @@
-<h1>ANALISI ADERENZA ALLE PROMOZIONI</h1>
+<h1>ANALISI ADESIONE ALLE PROMOZIONI</h1>
 
 <p>L'analisi finale si basa sulla correlazione tra la media di acquisti in promozione e le fasce di reddito,
 considerando la campagna dominante di riferimento.</p>
-<p> Partendo dalle due categorie oggetto d'analisi (famiglie con figli e famiglie senza figli), attraverso le query sql riportate nella cartella, sono stati filtrati i dati al fine di quantificare la spesa di prodotti in promozione e l'aderenza alle diverse campagne promozionali da parte degli utenti appartenenti alle fasce di reddito indivudate nella seconda metrica.</p>
+<p> Partendo dalle due categorie oggetto d'analisi (famiglie con figli e famiglie senza figli), attraverso le query sql riportate nella cartella, sono stati filtrati i dati al fine di quantificare la spesa di prodotti in promozione e l'adesione alle diverse campagne promozionali da parte degli utenti appartenenti alle fasce di reddito indivudate nella seconda metrica.</p>
 <h5><b>Fasce di reddito</b></h5>
 <ul>
 <li><15.000 → Molto basso</li> 
@@ -49,4 +49,4 @@ Nel complesso, i valori registrati non consentono di formulare una generalizzazi
 <img width="600" height="371" alt="Campagna Promozionale Dominante per Fascia di Reddito " src="https://github.com/user-attachments/assets/bc65a429-d693-4fe7-8279-9ecc6e2c3c6f" />
 
 <h5> Intepretazione </h5>
-<p>Il grafico mostra che  all'aumentare del reddito aumentano i tempi di aderenza alle promozioni. Le prime tre fasce analizzate (Molto basso- Medio) aderiscono maggiormente alla terza campagna promozionale, mentre gli utenti con reddito 'Medio alto' mostrano una maggiore propensione ad aderire alla quarta campagna promozionale. Coerentemente con quanto affermato, le famiglie con reddito 'Alto' aderiscono alla quinta campagna promozionale, nonchè ultima tra quelle fornite dal dataset. Questo gruppo di utenti è quello che mostra massima aderenza alla campagna dominante: una parte significativa degli utenti  appartenenti a tale fascia di reddito (>40%) aderiscono alla campagna dominante.  In linea con la tendenza emersa, gli utenti con reddito 'Molto alto' aderiscono poco alle campagne promozionali, con dati trascurabili riguardo all'aderenza alla prima e alla quarta campagna promozionale (4%). </p>
+<p>Il grafico mostra che  all'aumentare del reddito aumentano i tempi di aderenza alle promozioni. Le prime tre fasce analizzate (Molto basso- Medio) aderiscono maggiormente alla terza campagna promozionale, mentre gli utenti con reddito 'Medio alto' mostrano una maggiore propensione ad aderire alla quarta campagna promozionale. Coerentemente con quanto affermato, le famiglie con reddito 'Alto' aderiscono alla quinta campagna promozionale, nonchè ultima tra quelle fornite dal dataset. Questo gruppo di utenti è quello che mostra massima aderenza alla campagna dominante: una parte significativa degli utenti  appartenenti a tale fascia di reddito (>40%) aderiscono alla campagna dominante.  In linea con la tendenza emersa, gli utenti con reddito 'Molto alto' aderiscono poco alle campagne promozionali, con dati trascurabili riguardo all'adesione alla prima e alla quarta campagna promozionale (4%). </p>
