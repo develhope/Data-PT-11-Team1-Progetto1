@@ -23,7 +23,7 @@ considerando la campagna dominante di riferimento.</p>
 Per questa metrica sono state svolte due analisi:
   <ul>
 <li>1) Calcolo della spesa media dei prodotti in promozione per ogni fascia di reddito e per ciascuna categoria (famiglie con e senza figli)</li>
-<li>2) Calcolo della media del tasso di aderenza alle diverse campagne per ogni fascia di reddito e per ciascuna categoria; segue identificazione della campagna con maggiore aderenza </li>
+<li>2) Calcolo della media del tasso di adesione alle diverse campagne per ogni fascia di reddito e per ciascuna categoria; segue identificazione della campagna con maggiore adesione </li>
 </ul>
 <p>Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentati in grafici mediante l'uso di Google Sheet.</p>
 <p>Il primo grafico mostra l'andamento della spesa delle famiglie con figli</p>
@@ -31,7 +31,7 @@ Per questa metrica sono state svolte due analisi:
 <img width="600" height="371" alt="Adesione media alle promozioni per fascia di reddito" src="https://github.com/user-attachments/assets/a6927199-b3e6-40d2-b6df-a2190a2dfb41" />
 
 <h5> Intepretazione </h5>
-<p> Il grafico evidenzia che non esiste una correlazione lineare tra reddito e aderenza alle promozioni. Sebbene ci si potrebbe aspettare una maggiore partecipazione da parte degli utenti con redditi più bassi e una minore da parte di quelli con redditi più elevati, una parte  di dati mostra una tendenza opposta: nelle fasce “basso”, “medio” e “alto”, l’aderenza alle promozioni cresce all’aumentare del reddito, contrariamente a ciò che ci si aspetterebbe. I valori relativi a queste tre fasce potrebbero risultare particolarmente significativi poiché sono le più rappresentate nel dataset, cioè quelle con il maggior numero di utenti.</p>
+<p> Il grafico evidenzia che non esiste una correlazione lineare tra reddito e adesione alle promozioni. Sebbene ci si potrebbe aspettare una maggiore partecipazione da parte degli utenti con redditi più bassi e una minore da parte di quelli con redditi più elevati, una parte  di dati mostra una tendenza opposta: nelle fasce “basso”, “medio” e “alto”, l’aderenza alle promozioni cresce all’aumentare del reddito, contrariamente a ciò che ci si aspetterebbe. I valori relativi a queste tre fasce potrebbero risultare particolarmente significativi poiché sono le più rappresentate nel dataset, cioè quelle con il maggior numero di utenti.</p>
 <p>
 Le famiglie con reddito “Medio alto” e “Molto alto” risultano infatti le più propense ad aderire alle promozioni, superando di alcuni punti anche la fascia “molto basso”, che si colloca al terzo posto.
 Nel complesso, i valori registrati non consentono di formulare una generalizzazione chiara sull’influenza del reddito nei comportamenti d’acquisto dei prodotti in promozione: gli utenti con reddito 'Basso' e 'Alto' mostrano una frequenza di adesione simile, ottenendo lo stesso punteggio nel grafico. Questi due gruppi, inoltre, sono quelli che complessivamente aderiscono meno alle promozioni.
