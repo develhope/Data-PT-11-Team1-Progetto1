@@ -2,7 +2,7 @@
 
 <p>L'analisi finale si basa sulla correlazione tra la media di acquisti in pormodozione e le fasce di reddito,
 considerando la campagna dominante di riferimento.</p>
-<p> Partendo dalle due categorie oggetto d'analisi (famiglie con figli e famiglie senza figli), attraverso le query sql riportate nella cartella, sono stati filtrati i dati al fine di quantificare la spesa di prodotti in promozione e l'aderenza alle diverse campagne promozionali degli utenti appartenenti alle fasce di reddito indivudate nella seconda metrica.</p>
+<p> Partendo dalle due categorie oggetto d'analisi (famiglie con figli e famiglie senza figli), attraverso le query sql riportate nella cartella, sono stati filtrati i dati al fine di quantificare la spesa di prodotti in promozione e l'aderenza alle diverse campagne promozionali da parte degli utenti appartenenti alle fasce di reddito indivudate nella seconda metrica.</p>
 <h5><b>Fasce di reddito</b></h5>
 <ul>
 <li><15.000 → Molto basso</li> 
@@ -23,7 +23,7 @@ considerando la campagna dominante di riferimento.</p>
 Per questa metrica sono state svolte due analisi:
   <ul>
 <li>1) Calcolo della spesa media dei prodotti in promozione per ogni fascia di reddito e per ciascuna categoria (famiglie con e senza figli)</li>
-<li>2) Calcolo della media del tasso di aderenza alle diverse campagne per ogni fascia di reddito e per ciascuna categoria e identificazione della campagna con maggiore aderenza </li>
+<li>2) Calcolo della media del tasso di aderenza alle diverse campagne per ogni fascia di reddito e per ciascuna categoria; segue identificazione della campagna con maggiore aderenza </li>
 </ul>
 <p>Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentati in grafici mediante l'uso di Google Sheet.</p>
 <p>Il primo grafico mostra l'andamento della spesa delle famiglie con figli</p>
