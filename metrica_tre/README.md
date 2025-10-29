@@ -1,22 +1,25 @@
-ANALISI ADERENZA ALLE PROMOZIONI
+<h1>ANALISI ADERENZA ALLE PROMOZIONI</h1>
 
 <p>L'analisi finale si basa sulla correlazione tra la media di acquisti in pormodozione e le fasce di reddito,
 considerando la campagna dominante di riferimento.</p>
 <p> Partendo dalle due categorie oggetto d'analisi (famiglie con figli e famiglie senza figli), attraverso le query sql riportate nella cartella, sono stati filtrati i dati al fine di quantificare la spesa in prodotti in promozione e l'aderenza alle diverse campagne promozionali degli utenti appartenenti alle fasce di reddito indivudate nella seconda metrica.</p>
-<h5>Fasce di reddito</h5>
-- <15.000 → Molto basso
-- 15.000-30.000 → Basso
-- 30.001-50.000 → Medio
-- 50.001-80.000→ Medio-Alto
-- 80.001-150.000→ Alto
-- 150.000→ Molto alto
-<h5> Campagne promozionali </h5>
-  - Campagna 1
-  - Campagna 2
-  - Campagna 3
-  - campagna 4
-  - campagna 5 
-
+<h5><b>Fasce di reddito</b></h5>
+<ul>
+<li><15.000 → Molto basso</li> 
+<li> 15.000-30.000 → Basso</li>
+<li> 30.001-50.000 → Medio</li>
+<li>50.001-80.000→ Medio-Alto</li> 
+<li> 80.001-150.000→ Alto</li>
+<li> 150.000→ Molto alto</li>
+  </ul>
+<h5> <b>Campagne promozionali</b> </h5>
+  <ul>
+  <li>Campagna 1</li> 
+  <li> Campagna 2</li>
+  <li> Campagna 3</li>
+  <li>campagna 4 </li>
+  <li>campagna 5 </li> 
+</ul>
 Per questa metrica sono state svolte due analisi:
 1) Calcolo della spesa media dei prodotti in promozione per ogni fascia di reddito e per ciascuna categoria (famiglie con e senza figli)
 2) Calcolo della media del tasso di aderenza alle diverse campagne per ogni fascia di reddito e per ciascuna categoria e identificazione della campagna con maggiore aderenza
