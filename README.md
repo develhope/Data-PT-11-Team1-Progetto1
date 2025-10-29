@@ -33,7 +33,7 @@ Successivamente, i risultati ottenuti dalle query sono stati esportati da DBeave
 
 **Risultato finale**
 
-1. Analisi per fasce d’età
+1.**Analisi per fasce d’età**
 
 Famiglie con figli:
 Mostrano una diminuzione generale della spesa nel tempo, soprattutto per gli alcolici e la carne.
@@ -47,7 +47,7 @@ Le generazioni più giovani (post 1995) mostrano spese più basse e orientate al
 Conclusione:
 Con l’età diminuisce la spesa complessiva, ma cambia anche la struttura dei consumi: le famiglie più giovani, specie senza figli, mostrano stili di vita più sobri e consapevoli.
 
-2. Analisi per fasce di reddito
+2. **Analisi per fasce di reddito**
 
 Famiglie con figli:
 La spesa cresce con il reddito fino alla fascia “Alto”, poi diminuisce nella fascia “Molto alto”.
@@ -65,7 +65,7 @@ le famiglie con figli mostrano comportamenti più equilibrati e variabili;
 
 quelle senza figli aumentano costantemente la spesa con il reddito.
 
-3. Analisi sull’adesione alle promozioni
+3. **Analisi sull’adesione alle promozioni**
 
 Famiglie con figli:
 Non emerge una relazione lineare tra reddito e adesione alle promozioni.
@@ -76,7 +76,7 @@ Famiglie senza figli:
 L’aderenza è inversamente proporzionale al reddito: le fasce più basse sono le più sensibili alle promozioni.
 Le famiglie più abbienti mostrano un comportamento più selettivo e meno influenzato dal prezzo, preferendo campagne legate al valore e al brand.
 
-gConclusione:
+Conclusione:
 Le promozioni funzionano meglio sui redditi bassi e medi, ma la risposta dipende anche dalla presenza di figli:
 
 chi ha figli tende a sfruttare le offerte in modo pragmatico;
