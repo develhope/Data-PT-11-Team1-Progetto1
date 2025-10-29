@@ -40,6 +40,5 @@ Dall’analisi emerge che il vino e la carne costituiscono le principali voci di
 alimentari che le imprese del settore dovrebbero considerare in ottica strategica.</p>
 
 
-Conclusioni
 </p>
 
