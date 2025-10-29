@@ -50,4 +50,22 @@ Nel complesso, i valori registrati non consentono di formulare una generalizzazi
 <img width="600" height="371" alt="Campagna Promozionale Dominante per Fascia di Reddito " src="https://github.com/user-attachments/assets/bc65a429-d693-4fe7-8279-9ecc6e2c3c6f" />
 
 <h5> Intepretazione </h5>
+<p>Il grafico mostra che  all'aumentare del reddito aumentano i tempi di aderenza alle promozioni. 
+ Le prime tre fasce analizzate (Molto basso- Medio) aderiscono maggiormente alla terza campagna promozionale, mentre gli utenti con reddito 'Medio alto' mostrano una maggiore propensione ad aderire alla quarta campagna promozionale. Coerentemente con quanto affermato, le famiglie con reddito 'Alto' aderiscono alla quinta campagna promozionale, nonchè ultima tra quelle fornite dal dataset.
+  Questo gruppo di utenti è quello che mostra massima aderenza alla campagna dominante: una parte significativa degli utenti  appartenenti a tale fascia di reddito (>40%) aderiscono alla campagna dominante.  In linea con la tendenza emersa, gli utenti con reddito 'Molto alto' aderiscono poco alle campagne promozionali, con dati trascurabili riguardo all'aderenza alla prima e alla quarta campagna promozionale (4%). </p>
+
+<p>Il secondo grafico mostra l'andamento della spesa delle famiglie senza figli</p>
+<h3>Grafici famiglie senza figli</h3>
+<img width="675" height="419" alt="Image" src="https://github.com/user-attachments/assets/d79bdf43-01c4-4285-ac85-e1c1e69ee91d" />
+
+<img width="600" height="371" alt="Image" src="https://github.com/user-attachments/assets/a8f605f6-3852-4dde-8bc3-2c8250c02a91" />
+
+<h5> Intepretazione </h5>
+
+<p> Si riesce ad analizzare, nel primo grafico, il grado medio di risposta alle promozioni da parte delle famiglie senza figli, suddivise per fascia di reddito. Si osserva una maggiore propensione promozionale nelle fasce molto bassa e bassa, verosimilmente legata a una maggiore elasticità del reddito e alla ricerca attiva di risparmio. All’aumentare del reddito, l’aderenza diminuisce: le famiglie medie e alte risultano meno sensibili agli sconti, suggerendo una preferenza verso prodotti abituali o di qualità stabile, indipendentemente dalle iniziative commerciali.</p>
+<p> Il secondo grafico evidenzia quale campagna promozionale risulta predominante in ciascuna fascia reddituale. Le fasce media e medio-alta mostrano risposte selettive verso specifiche campagne, indicando un comportamento di consumo più mirato e differenziato. Nella fascia alta, si registra una netta prevalenza di una singola campagna, il che suggerisce che le strategie promozionali più efficaci, in questi segmenti, non sono quelle basate sul prezzo, ma su valore percepito, branding e posizionamento del prodotto.</p>
+</p>
+<p>
+Le famiglie senza figli mostrano una sensibilità alle promozioni inversamente correlata al reddito: maggiore nelle fasce economicamente più deboli e più selettiva in quelle agiate. Le campagne risultano efficaci quando rispondono non solo al risparmio, ma anche alla costruzione di valore, identità e preferenze di consumo.
+</p>
 <p>Il grafico mostra che  all'aumentare del reddito aumentano i tempi di aderenza alle promozioni. Le prime tre fasce analizzate (Molto basso- Medio) aderiscono maggiormente alla terza campagna promozionale, mentre gli utenti con reddito 'Medio alto' mostrano una maggiore propensione ad aderire alla quarta campagna promozionale. Coerentemente con quanto affermato, le famiglie con reddito 'Alto' aderiscono alla quinta campagna promozionale, nonchè ultima tra quelle fornite dal dataset. Questo gruppo di utenti è quello che mostra massima aderenza alla campagna dominante: una parte significativa degli utenti  appartenenti a tale fascia di reddito (>40%) aderiscono alla campagna dominante.  In linea con la tendenza emersa, gli utenti con reddito 'Molto alto' aderiscono poco alle campagne promozionali, con dati trascurabili riguardo all'adesione alla prima e alla quarta campagna promozionale (4%). </p>
