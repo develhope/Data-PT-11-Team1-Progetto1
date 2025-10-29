@@ -1,6 +1,6 @@
 <h1>ANALISI ADERENZA ALLE PROMOZIONI</h1>
 
-<p>L'analisi finale si basa sulla correlazione tra la media di acquisti in pormodozione e le fasce di reddito,
+<p>L'analisi finale si basa sulla correlazione tra la media di acquisti in promozione e le fasce di reddito,
 considerando la campagna dominante di riferimento.</p>
 <p> Partendo dalle due categorie oggetto d'analisi (famiglie con figli e famiglie senza figli), attraverso le query sql riportate nella cartella, sono stati filtrati i dati al fine di quantificare la spesa di prodotti in promozione e l'aderenza alle diverse campagne promozionali da parte degli utenti appartenenti alle fasce di reddito indivudate nella seconda metrica.</p>
 <h5><b>Fasce di reddito</b></h5>
