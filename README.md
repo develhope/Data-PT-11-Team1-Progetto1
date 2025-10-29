@@ -33,7 +33,7 @@ Successivamente, i risultati ottenuti dalle query sono stati esportati da DBeave
 
 **Risultato finale**
 
-1.**Analisi per fasce d’età**
+1. **Analisi per fasce d’età**
 
 Famiglie con figli:
 Mostrano una diminuzione generale della spesa nel tempo, soprattutto per gli alcolici e la carne.
