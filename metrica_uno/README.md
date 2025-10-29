@@ -5,18 +5,19 @@ Questa prima metrica risulta essenziale per capire la relazione che intercorre t
 di nascita dei clienti e la spesa media relativa a diverse categorie di prodotto.
 
 <p>L'analisi è stata svolta filtrando i dati del dataset in modo da identificare due categorie oggetto d'analisi: <b>famiglie con figli e famiglie senza figli</b>. Ulteriori fasi di filtraggio mirano a suddividere gli utenti di ogni categoria in fasce quinquennali secondo l'anno di nascita. Ai fini dell'analisi sono state definite undici fasce L'arco temporale esaminato va dal 1940, primo anno con dati disponibili sulle famiglie, al 1995.</p>
-- 1940-1945
-- 1945-1950
-- 1950-1955
-- 1955-1960
-- 1960-1965
-- 1965-1970
-- 1970-1975
-- 1975-1980
-- 1980-1985
-- 1985-1990
-- 1990-1995
-
+<ul>
+<li>1940-1945</li>
+<li>1945-1950 </li>
+<li>1950-1955 </li>
+<li> 1955-1960 </li>
+<li> 1960-1965 </li>
+<li> 1965-1970 </li>
+<li> 1970-1975 </li>
+<li> 1975-1980 </li>
+<li>1980-1985 </li>
+<li>1985-1990 </li>
+<li>1990-1995 </li>
+</ul>
 Il filtraggio dei dati è stato eseguito attraverso query SQL, di cui si riportano i file nella cartella.
 
 Per ciascun prodotto esaminato e per ciascuna categoria di utenti è stata calcolata la spesa media degli ultimi due anni di ogni coorte.
