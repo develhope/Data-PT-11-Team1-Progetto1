@@ -31,3 +31,55 @@ Il dataset è stato caricato su DBeaver, dove sono state eseguite diverse query 
 
 Successivamente, i risultati ottenuti dalle query sono stati esportati da DBeaver e importati in Google Sheets, dove sono stati creati i grafici per rappresentare in modo chiaro e intuitivo le variazioni dei dati e le relazioni tra le diverse variabili (fasce di reddito, presenza di figli, abitudini di acquisto e adesione alle campagne promozionali). 
 
+**Risultato finale**
+
+1. Analisi per fasce d’età
+
+Famiglie con figli:
+Mostrano una diminuzione generale della spesa nel tempo, soprattutto per gli alcolici e la carne.
+Nonostante il calo, il vino resta il prodotto più acquistato.
+Si nota una tendenza verso consumi più moderati e selettivi nelle generazioni più giovani.
+
+Famiglie senza figli:
+Spendono principalmente in vino e carne, con picchi nelle generazioni nate tra il 1970–74 e 1990–94.
+Le generazioni più giovani (post 1995) mostrano spese più basse e orientate alla sostenibilità, segno di un cambiamento culturale e valoriale.
+
+Conclusione:
+Con l’età diminuisce la spesa complessiva, ma cambia anche la struttura dei consumi: le famiglie più giovani, specie senza figli, mostrano stili di vita più sobri e consapevoli.
+
+2. Analisi per fasce di reddito
+
+Famiglie con figli:
+La spesa cresce con il reddito fino alla fascia “Alto”, poi diminuisce nella fascia “Molto alto”.
+Le famiglie con redditi molto bassi spendono sorprendentemente di più in carne e beni di lusso rispetto alla fascia successiva.
+Le famiglie più abbienti tendono invece a ridurre il consumo di carne e alcolici, probabilmente per motivi salutistici o di stile di vita.
+
+Famiglie senza figli:
+La spesa è proporzionale al reddito: più cresce il reddito, più aumenta la spesa, in particolare per vino e carne.
+I redditi medi e alti sono i principali consumatori di prodotti di fascia più costosa.
+
+Conclusione:
+Il reddito incide direttamente sulle abitudini di spesa, ma in modo diverso tra le due categorie:
+
+le famiglie con figli mostrano comportamenti più equilibrati e variabili;
+
+quelle senza figli aumentano costantemente la spesa con il reddito.
+
+3. Analisi sull’adesione alle promozioni
+
+Famiglie con figli:
+Non emerge una relazione lineare tra reddito e adesione alle promozioni.
+Le famiglie “Medio-alte” e “Alte” sono le più propense a partecipare, anche più delle fasce povere.
+La campagna 5 risulta la più efficace per la fascia alta di reddito.
+
+Famiglie senza figli:
+L’aderenza è inversamente proporzionale al reddito: le fasce più basse sono le più sensibili alle promozioni.
+Le famiglie più abbienti mostrano un comportamento più selettivo e meno influenzato dal prezzo, preferendo campagne legate al valore e al brand.
+
+gConclusione:
+Le promozioni funzionano meglio sui redditi bassi e medi, ma la risposta dipende anche dalla presenza di figli:
+
+chi ha figli tende a sfruttare le offerte in modo pragmatico;
+
+chi non ha figli risponde solo se la promozione ha valore percepito o legame con la marca.
+
