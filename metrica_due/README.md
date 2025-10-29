@@ -19,6 +19,7 @@ Il filtraggio dei dati è stato eseguito attraverso query SQL, di cui si riporta
 Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentati in grafici mediante l'uso di Google Sheet. <br>
 Il primo grafico mostra l'andamento della spesa delle famiglie con figli 
 <img width="833" height="515" alt="Media spesa per categoria e fascia di reddito " src="https://github.com/user-attachments/assets/5160828b-467e-4f4a-ad4a-55e6a9b51d6f" />
+
 Il secondo grafico, in contrapposizione, l'andamento della spesa delle famiglie senza figli
 <img width="592" height="367" alt="Image" src="https://github.com/user-attachments/assets/ebd5a81a-1c17-4d4f-8207-d16d83eae1f4" /> 
 <p>
