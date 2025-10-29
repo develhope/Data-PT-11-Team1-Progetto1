@@ -19,6 +19,8 @@ Il filtraggio dei dati è stato eseguito attraverso query SQL, di cui si riporta
 Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentati in grafici mediante l'uso di Google Sheet. <br>
 Il primo grafico mostra l'andamento della spesa delle famiglie con figli 
 <img width="833" height="515" alt="Media spesa per categoria e fascia di reddito " src="https://github.com/user-attachments/assets/5160828b-467e-4f4a-ad4a-55e6a9b51d6f" />
+Il secondo grafico, in contrapposizione, l'andamento della spesa delle famiglie senza figli
+<img width="592" height="367" alt="Image" src="https://github.com/user-attachments/assets/ebd5a81a-1c17-4d4f-8207-d16d83eae1f4" /> 
 <p>
 Dal primo grafico emerge che per le categorie centrali, cioè da ‘Basso’ a ‘Alto’, <b>la spesa è direttamente proporzionale al reddito: all'aumentare del reddito aumenta anche la spesa</b>. 
 Tuttavia, tra le prime due e tra le ultime due categorie la tendenza sembra ribaltarsi. Analizzando la prima coppia (spesa delle famiglie con reddito ‘Molto basso’ e ‘Basso’) emerge che la prima fascia di reddito mostra una spesa complessiva maggiore della seconda, con differenze considerevoli nella spesa di <b>carne</b>  (58 per ‘Molto basso’ e 15 per ‘Basso’) e <b>beni di lusso </b>(31 per la prima fascia, 12 per la seconda). I valori delle altre tipologie di prodotti sono simili, seppure maggiori nella fascia ‘Molto basso’. </p>
@@ -30,6 +32,14 @@ Il prodotto meno acquistato, invece, è la frutta. Le differenze di spesa pptreb
 <p>
 I dolci sono il prodotto meno acquistato dalle prime quattro categorie(molto basso - medio alto), insieme alla frutta, la quale resta il prodotto meno acquistato anche dagli altri due gruppi. Si registra, dunque, una spesa in dolci leggermente maggiore da parte delle famiglie con reddito alto e molto alto. 
   </p>
+<p>
+Dal secondo grafico  è possibile constatare la differenza della spesa media per singolo cliente senza figli, tenendo in considerazione anche i valori nulli esclusi riferiti agli anni 1961, 1983 e 1986. I soggetti con redditi alti e medio alti possiedono una spesa media maggiore per il vino
+rispetto alle altre categorie, con una spesa media all’interno del range 500-1.000€ ogni due anni, e in seconda posizione il consumo di carne.</p>
+<p>
+Coerente con il reddito disponibile, le altre fasce possiedono abitudini di spesa nettamente inferiori a causa della loro posizione reddituale. </p>
+<p>
+La spesa generale per tutti i prodotti, infatti, risulta essere proporzionale al reddito disponibile
+indipendentemente dalla tipologia di prodotto.
 <p>
 <h5>Conclusioni</h5>
 </p>
