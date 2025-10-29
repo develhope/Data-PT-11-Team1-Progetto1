@@ -41,7 +41,7 @@ Coerente con il reddito disponibile, le altre fasce possiedono abitudini di spes
 La spesa generale per tutti i prodotti, infatti, risulta essere proporzionale al reddito disponibile
 indipendentemente dalla tipologia di prodotto.
 <p>
-<h5>Conclusioni</h5>
+
 </p>
 
 
