@@ -23,7 +23,7 @@ considerando la campagna dominante di riferimento.</p>
 Per questa metrica sono state svolte due analisi:
   <ul>
 <li>1) Calcolo della spesa media dei prodotti in promozione per ogni fascia di reddito e per ciascuna categoria (famiglie con e senza figli)</li>
-<li>2) Calcolo della media del tasso di aderenza alle diverse campagne per ogni fascia di reddito e per ciascuna categoria; segue identificazione della campagna con maggiore aderenza </li>
+<li>2) Calcolo della media del tasso di adesione alle diverse campagne per ogni fascia di reddito e per ciascuna categoria; segue identificazione della campagna con maggiore aderenza </li>
 </ul>
 <p>Al fine di una migliore interpretazione, i dati ottenuti sono stati rappresentati in grafici mediante l'uso di Google Sheet.</p>
 <p>Il primo grafico mostra l'andamento della spesa delle famiglie con figli</p>
